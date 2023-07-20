@@ -1,0 +1,9 @@
+@import "daisyui/dist/full.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.dark {
+  /* Add your dark theme styles here */
+  background-color: #222;
+  color: #fff;
+}
